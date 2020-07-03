@@ -1,0 +1,55 @@
+*{
+    font-family: MuseoModerno;
+    color: snow;
+}
+
+body{
+    background-image: url(../images/backroundimage.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    }
+
+h2{
+    text-align: center;
+}
+
+.align-center{
+    margin: 0px auto 0px auto;
+}
+
+.slider-section{
+width: 600px;
+}
+
+.carousel{
+    text-align: center;
+}
+
+img{
+    border: blanchedalmond 20px;
+}
+
+img:hover{
+    transform: scale(1.2);
+}
+
+a{
+    color: wheat;
+}
+
+ul{
+    color: wheat;
+}
+
+a:hover{
+    color: teal;
+}
+
+.myjumbotron{
+    text-align: center;
+    background: none;
+}
+
+.center{
+    text-align: center;
